@@ -1,0 +1,11 @@
+# TODO: debug
+[Desktop Entry]
+Encoding=UTF-8
+Name= TJUCM  # 快捷方式名称
+Comment= XXX  # 注释内容
+Exec= /home/gemhou/PycharmProjects/TJUCalcMonitor/main.sh  # .sh文件绝对路径
+# Icon= # 快捷方式图标 .png文件或其他
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Development;
